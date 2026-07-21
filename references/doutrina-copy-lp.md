@@ -1,52 +1,54 @@
-# Doutrina — copy e estrutura de landing page de infoproduto
+# Doutrina — copy e estrutura de landing page
 
-Destilado de 16 fontes de copywriting e CRO (consenso + curadoria), num tom honesto. Esta é a base que a skill `copy-lp-ratos` aplica.
+Destilado de 16 fontes de copywriting e CRO (consenso + curadoria), num tom honesto. Esta é a base que a skill `copy-lp-ratos` aplica. Vale pros quatro tipos de página que a skill cobre: **venda, captura de lead, serviço/negócio local e institucional**.
 
 ## A tese
-Uma landing page de infoproduto converte quando, logo na primeira tela, fica claro o benefício pra uma pessoa específica; e quando o resto da página constrói a crença (prova, lógica, objeções, garantia) até a compra parecer a conclusão óbvia, não um empurrão.
+Uma página converte quando, logo na primeira tela, fica claro o benefício pra uma pessoa específica; e quando o resto da página constrói a crença (prova, lógica, objeções, reversão de risco) até a ação desejada parecer a conclusão óbvia, não um empurrão.
 
 ## Princípios (consenso, dá pra confiar)
 
 1. **A primeira tela decide.** Above the fold carrega a página; a maioria não rola se ali não prender. É onde vai o maior esforço de copy e de teste. (a maior parte dos ganhos de conversão vem daqui)
 2. **Headline vende o benefício/valor, não descreve a atividade.** Específica e crível. Responde rápido: quem é, o que faz, o que eu ganho.
 3. **Benefício acima de feature.** Feature é spec, benefício é o que muda na vida. Concreto vence abstrato (número exato, fato, cena visualizável).
-4. **Uma página, uma ação.** Sem menu, sem link de fuga, sem multiproduto. Tudo aponta pra uma conversão. (mais opções = paralisia da decisão)
-5. **Provar vale mais que afirmar.** Print, caso, depoimento, número, autoridade. "Mostrar vale 10x mais que falar." Aponte fatos em vez de adjetivos.
+4. **Uma página, uma ação.** Sem menu, sem link de fuga, sem multiproduto. Tudo aponta pra uma conversão. (mais opções = paralisia da decisão) *Exceção: página institucional pode ter navegação, mas ainda assim tem um próximo passo principal.*
+5. **Provar vale mais que afirmar.** Print, caso, depoimento, avaliação, número, autoridade. "Mostrar vale 10x mais que falar." Aponte fatos em vez de adjetivos.
 6. **Quebre as objeções com honestidade.** O FAQ faz o papel do vendedor que tirava dúvida. Trate a objeção com justiça, não na marra.
-7. **Garantia / reversão de risco.** Devolução, satisfação, sem cartão. Derruba o medo de perder dinheiro.
-8. **Escreva pra uma pessoa só.** Avatar específico, tom de conversa. Nunca "olá galera".
+7. **Reversão de risco.** Tira o medo de dar o passo. Em venda é a garantia; em captura é "é grátis e não mando spam"; em serviço é orçamento sem compromisso; em institucional é uma conversa sem custo.
+8. **Escreva pra uma pessoa só.** Avatar específico, tom de conversa. Nunca "olá pessoal".
 9. **Simplicidade. Escrever é cortar.** Clareza acima de tudo; corte o que não trabalha a favor.
 10. **CTA claro e explícito, repetido.** Botão com próximo passo óbvio e verbo de ação.
-11. **Oferta com ancoragem de preço.** Fazer o preço parecer baixo perto do valor entregue (ancorar, diluir, empilhar bônus), sem teatro.
+11. **Quando houver preço, ancore.** Fazer o preço parecer baixo perto do valor entregue (ancorar, diluir, empilhar bônus), sem teatro. *(vale pras páginas que mostram preço)*
+
+## O que muda por tipo de página
+
+| Tipo | Onde está o peso | Erro mais comum |
+|---|---|---|
+| **Venda** | Oferta, prova, preço ancorado e garantia. Página mais longa, constrói crença até a compra | Pouca prova, ou hype pra compensar a falta dela |
+| **Captura de lead** | Promessa do que a pessoa recebe + formulário curto e visível. Página curta | Pedir campo demais e prometer mais do que o material entrega |
+| **Serviço / local** | Confiança e facilidade de contato. Endereço, horário, avaliações e "como funciona" | Esconder contato e preço, e falar de si em vez do problema do cliente |
+| **Institucional** | Clareza sobre o que faz e prova de credibilidade | Encher de adjetivo e missão/visão/valores genéricos, sem fato |
 
 ## Posições adotadas (onde as fontes divergem)
 
 - **Promessa: premissa + promessa moderada.** Construir o raciocínio e deixar a pessoa concluir que precisa, em vez de promessa no imperativo. Quando prometer, no nível em que dá pra acreditar. Tom honesto, não vendedor agressivo.
-- **CTA de compra visível acima da dobra**, e repetido ao longo da página.
-- **Funil direto e simples:** a página vende direto (sem quiz/assessment, sem funil elaborado). Remarketing pega o resto.
+- **CTA principal visível acima da dobra**, e repetido ao longo da página.
+- **Funil direto e simples:** a página faz o trabalho dela (sem quiz, sem funil elaborado). Remarketing pega o resto.
 - **Quebra de objeção: sempre**, feita com honestidade.
 - **Design é hipótese de teste, não dogma:** versão caprichada vs versão mais crua ("parece menos marketing") — o dado decide.
 
 ## Conceitos que afiam a copy
 
 - **As 3 perguntas de toda frase (Harry Dry):** dá pra visualizar? dá pra provar verdadeira/falsa? mais ninguém poderia dizer isso? Três "sins" = a frase presta. Corolário: "don't talk, only point" — aponte fatos, não adjetivos.
-- **Uma big idea (rule of one):** a página gira em torno de UMA ideia central (fácil de entender, de acreditar, única). Todo o resto são subpontos a serviço dela, não uma salada de argumentos.
-- **Marketing de premissa:** somar verdades que a pessoa já aceita até a conclusão "comprar" virar lógica, não pressão. (sustenta a promessa moderada)
+- **Uma big idea (rule of one):** a página gira em torno de UMA ideia central (fácil de entender, de acreditar, e única). Todo o resto são subpontos a serviço dela, não uma salada de argumentos.
+- **Marketing de premissa:** somar verdades que a pessoa já aceita até a conclusão virar lógica, não pressão. (sustenta a promessa moderada)
 - **Value equation + corrente "so that":** encadear o benefício até o porquê profundo (ex.: "aprende a skill → automatiza a tarefa → ganha horas → entrega mais"). Resultado dos sonhos na headline; risco cai com prova; tempo e esforço se comunicam na copy.
-- **Os 3% prontos pra comprar (Chet Holmes):** só uma fatia do mercado está em momento de compra agora; a página de venda direta briga por essa fatia (alta conversão), o resto se pega no remarketing.
+- **Os 3% prontos pra comprar (Chet Holmes):** só uma fatia do mercado está em momento de compra agora; a página de venda direta briga por essa fatia (alta conversão), o resto se pega no remarketing e na captura de lead.
 
-## Estrutura da página (ordem)
+## Estrutura da página
 
-1. **Above the fold:** headline de benefício + subheadline (como/pra quem) + visual (produto em uso) + prova social curta + CTA de compra visível.
-2. **Benefícios concretos** (não features), com corrente "so that".
-3. **Prova** (casos, prints, depoimentos, números) — só o que for real.
-4. **Oferta** detalhada, item a item, com bônus.
-5. **Preço ancorado.**
-6. **Garantia.**
-7. **Objeções / FAQ honesto.**
-8. **Fechamento + CTA final.** CTA repetido ao longo.
+A ordem das seções muda conforme o tipo. As quatro estruturas (venda, captura, serviço/local, institucional) estão no `SKILL.md`, no passo 4 do fluxo.
 
-Extras: mobile primeiro; página rápida (>3s perde gente); testar 1 coisa por vez, priorizando headline e imagem above the fold.
+Extras que valem pra qualquer tipo: mobile primeiro; página rápida (acima de ~3s começa a perder gente); testar uma coisa por vez, priorizando headline e imagem above the fold.
 
 ## Antipadrões de tom (evitar sempre)
 
@@ -55,6 +57,7 @@ Extras: mobile primeiro; página rápida (>3s perde gente); testar 1 coisa por v
 - Dicotomia "não é A, é B"; regra de três batida; chavão/metáfora gasta; travessões.
 - Quebrar objeção tratando o cliente como idiota.
 - Inventar prova. Sem prova real, marcar `[FALTA PROVA]`.
+- Em institucional: missão/visão/valores genéricos que qualquer empresa poderia assinar.
 
 ## Lacunas conhecidas da doutrina
 

@@ -25,6 +25,7 @@ A entrevista é uma **conversa**, não um formulário. Regras:
 - **Reaja à resposta antes da próxima pergunta.** Resposta vaga pede aprofundamento na hora: "é pra todo mundo" vira "quem é a pessoa que mais compra hoje? me descreve uma real". Resposta boa, reconheça em meia linha e siga. Nunca re-pergunte o que já foi respondido.
 - **Ordem viva, não questionário.** Comece pelo tipo de página e siga o fio do que a pessoa disser. O checklist do passo 2 é o que precisa estar coberto NO FIM, não uma sequência pra aplicar em ordem.
 - **Curta: 6 a 10 trocas no total.** Coberto o essencial, pare de perguntar e vá pro passo 3 (big idea + avatar). Melhor confirmar uma suposição do que fazer mais uma pergunta.
+- **Fechamento por bloco de suposições.** Se a pessoa pedir pressa ("faz logo", "tô sem tempo") ou as trocas estourarem antes de cobrir o checklist, NÃO despeje as perguntas restantes nem escreva direto: feche o que falta com um bloco de suposições explícitas ("vou assumir X, Y e Z, me corrige o que estiver errado"), junto com a big idea + avatar, numa única mensagem de confirmação. O portão do passo 3 nunca se pula, nem com pressa.
 
 ### 1. Identifique o tipo de página (primeira pergunta, ou primeira inferência)
 

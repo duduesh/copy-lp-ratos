@@ -15,9 +15,20 @@ A doutrina completa está em `references/doutrina-copy-lp.md`. **Leia esse arqui
 
 ## Fluxo
 
-### 1. Identifique o tipo de página (antes de qualquer coisa)
+### Como conduzir a entrevista (regra de forma, vale pros passos 1 a 3)
 
-Pergunte, ou infira do que o usuário já disse, qual dos quatro é:
+A entrevista é uma **conversa**, não um formulário. Regras:
+
+- **NUNCA despeje um bloco de perguntas numeradas.** Uma pergunta por mensagem (no máximo duas quando forem gêmeas, tipo preço + condições de pagamento).
+- **Antes de perguntar qualquer coisa, leia o material apontado** (página atual, doc de oferta, site) e infira o que der. Abra a conversa dizendo o que você já entendeu e assumiu, pra pessoa corrigir, e só pergunte o que faltar.
+- **Múltipla escolha quando as respostas prováveis são enumeráveis** (tipo de página, tem garantia?, formulário curto ou só email?). Se a ferramenta AskUserQuestion estiver disponível, use; senão, ofereça as opções em texto. Pergunta aberta quando a resposta é do negócio da pessoa (público, transformação, prova, objeções).
+- **Reaja à resposta antes da próxima pergunta.** Resposta vaga pede aprofundamento na hora: "é pra todo mundo" vira "quem é a pessoa que mais compra hoje? me descreve uma real". Resposta boa, reconheça em meia linha e siga. Nunca re-pergunte o que já foi respondido.
+- **Ordem viva, não questionário.** Comece pelo tipo de página e siga o fio do que a pessoa disser. O checklist do passo 2 é o que precisa estar coberto NO FIM, não uma sequência pra aplicar em ordem.
+- **Curta: 6 a 10 trocas no total.** Coberto o essencial, pare de perguntar e vá pro passo 3 (big idea + avatar). Melhor confirmar uma suposição do que fazer mais uma pergunta.
+
+### 1. Identifique o tipo de página (primeira pergunta, ou primeira inferência)
+
+Infira do que o usuário já disse; se não der, é a primeira pergunta (boa candidata a múltipla escolha):
 
 | Tipo | O que é | Objetivo da página |
 |---|---|---|
@@ -26,11 +37,9 @@ Pergunte, ou infira do que o usuário já disse, qual dos quatro é:
 | **Serviço / negócio local** | Apresenta um serviço e leva ao contato (clínica, restaurante, escritório, prestador) | Contato ou agendamento |
 | **Institucional** | Apresenta a empresa ou a pessoa, sem venda direta | Credibilidade e um próximo passo |
 
-**Confirme o tipo antes de seguir.** O tipo define a estrutura de seções do passo 4.
+**Confirme o tipo antes de seguir.** O tipo define a estrutura de seções do passo 4 e quais extras entram no checklist abaixo.
 
-### 2. Briefing (colete o essencial antes de escrever)
-
-Se o usuário apontou um material (página atual, doc de oferta, site), **leia primeiro** e extraia de lá; só pergunte o que faltar. Não trave pedindo tudo de uma vez se dá pra inferir.
+### 2. Briefing (o checklist do que precisa estar coberto no fim da conversa)
 
 **Núcleo comum (todos os tipos):**
 - **O que é:** o produto, serviço ou negócio, em uma frase.

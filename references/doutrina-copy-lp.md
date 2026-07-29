@@ -74,7 +74,7 @@ Extras que valem pra qualquer tipo: mobile primeiro; página rápida (acima de ~
 - Manipulação: "culpa invertida", pressão falsa, escassez fabricada que ninguém acredita.
 - Dicotomia "não é A, é B"; regra de três batida; chavão/metáfora gasta; travessões.
 - Quebrar objeção tratando o cliente como idiota.
-- Inventar prova. Sem prova real, marcar `[FALTA PROVA]`.
+- Passar prova mocada como se fosse real. Placeholder de mockup é permitido pra visualizar o design (ver regra 1 do SKILL.md), mas com nome genérico, sem imitar pessoa ou marca real, e sempre listado em "Trocar antes de publicar" pro aluno substituir pelo verdadeiro antes de ir pro ar.
 - Em institucional: missão/visão/valores genéricos que qualquer empresa poderia assinar.
 
 ## Lacunas conhecidas da doutrina

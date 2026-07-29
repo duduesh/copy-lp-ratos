@@ -13,7 +13,7 @@ A doutrina completa está em `references/doutrina-copy-lp.md`, **incluindo a se�
 
 ## Três regras de ouro
 
-**1. Não invente prova.** Número, caso, depoimento, avaliação e autoridade só entram se forem reais e o usuário fornecer. Onde faltar prova, marque `[FALTA PROVA: ...]` em vez de inventar. Uma página vive de credibilidade; uma prova falsa destrói a confiança e o resultado.
+**1. O entregável é um mockup completo, não um doc cheio de tag.** Use a prova real que o usuário der. Onde faltar prova ou dado (depoimento, número, avaliação, preço, link), **não espalhe tag `[FALTA PROVA]` / `[CONFIRMAR]` no meio da copy**: escreva um **placeholder realista** (um depoimento plausível, um número plausível) pra o design renderizar uma página completa e visual, que dá pra avaliar de verdade. Melhor um depoimento mocado no lugar, que o aluno troca depois, do que uma tag que não mostra nada. Junte tudo que é placeholder ou falta confirmar numa **única lista "Trocar antes de publicar" no fim do doc** (fora da página). Uma trava só, de integridade: depoimento placeholder usa nome genérico (não imita pessoa real) e nada de logo de marca real inventado, e nada disso vai pro ar sem o aluno trocar pela prova verdadeira.
 
 **2. Conceito criativo não fixa design.** O conceito é a **metáfora/storytelling** que dá alma à página (ex.: "os ratos carregando as pastas por um labirinto até organizar"), NUNCA uma decisão de design (grid, cor, componente, layout, animação específica). As próximas etapas do aluno — pegar referência, trazer o design system dele, escolher o visual — precisam ficar livres. Se uma frase do conceito manda em pixel, cor ou componente, ela virou design e tem que sair. É porta, não planta baixa. A fronteira completa está na doutrina.
 
@@ -57,7 +57,7 @@ Infira do que o usuário já disse; se não der, é a primeira pergunta (boa can
 - **O que é:** o produto, serviço ou negócio, em uma frase.
 - **Público específico:** pra quem é, em que momento ou dor. Quanto mais específico, mais a copy morde.
 - **Transformação ou benefício:** o que muda pra pessoa (não a lista de features).
-- **Prova disponível:** casos, números, depoimentos, avaliações, autoridade, prints. (sem isso a página fica fraca, sinalize)
+- **Prova disponível:** casos, números, depoimentos, avaliações, autoridade, prints. (o que o usuário tiver de real; o que faltar vira placeholder de mockup e entra na lista "Trocar antes de publicar", ver regra 1)
 - **Objeções conhecidas:** os "sim, mas..." reais do público.
 - **A única ação da página:** o que a pessoa deve fazer (comprar, preencher, chamar no WhatsApp, agendar).
 
@@ -92,7 +92,7 @@ Onde o conceito criativo se manifestar de forma marcante numa seção, acrescent
 #### A. Página de venda
 1. **Above the fold** — headline de benefício (vende o valor, não descreve a atividade) + subheadline (como / pra quem) + indicação do visual + prova social curta + **CTA de compra visível**. Seção mais importante; ofereça 2-3 variações de headline pra teste.
 2. **Benefícios concretos** — não features, usando a corrente "so that" até o porquê profundo.
-3. **Prova** — casos, números, depoimentos, autoridade. Só o que for real.
+3. **Prova** — casos, números, depoimentos, autoridade. Real quando houver; senão, placeholder realista pro mockup (regra 1).
 4. **Oferta** — o que está incluído, item a item, com bônus empilhados.
 5. **Preço + ancoragem** — fazer o preço parecer pequeno perto do valor, sem teatro.
 6. **Garantia** — reversão de risco, no tom honesto.
@@ -114,7 +114,7 @@ Mais curta que a de venda. O objetivo é uma ação pequena, então não canse a
 1. **Above the fold** — o que faz + pra quem + onde atende + **CTA de contato** (WhatsApp, ligar, agendar).
 2. **O problema** — a necessidade real que o serviço resolve, na linguagem do cliente.
 3. **Como funciona** — o atendimento em 3 passos, pra tirar o medo do desconhecido.
-4. **Prova** — depoimentos, avaliações, casos, antes e depois. Só o que for real.
+4. **Prova** — depoimentos, avaliações, casos, antes e depois. Real quando houver; senão, placeholder realista pro mockup (regra 1).
 5. **Diferenciais concretos** — o que separa de verdade (fato, não adjetivo).
 6. **Preço, faixa de preço ou como orçar** — quando fizer sentido mostrar.
 7. **Objeções / FAQ** — prazo, formas de pagamento, localização, garantia.
@@ -146,7 +146,7 @@ Mais curta que a de venda. O objetivo é uma ação pequena, então não canse a
 
 Monte tudo num doc markdown estruturado, cada seção rotulada **por função** (regra de ouro 3) e na ordem da página, pronto pra colar num builder.
 
-Comece o doc com um **preâmbulo pro agente de design** (uma nota de handoff): *"Este arquivo é matéria-prima de copy. Os rótulos dizem a FUNÇÃO de cada bloco, não o formato. Você decide como renderizar cada um: uma lista pode virar grid, carrossel, checklist ou revelação no scroll; uma prova pode virar galeria, comparação animada ou o que a marca pedir. Não trate 'lista' como bullets empilhados nem 'prova' como grade de prints. Layout, cor, tipografia e componente são teus. As linhas `> **→ princípio:**` e `> **→ conceito:**` são anotação (pra quem escreve e pra quem desenha), NÃO são texto de página: nunca renderize elas no HTML. E não invente prova visual (depoimento, número, avaliação, logo de cliente): onde a copy marcou `[FALTA PROVA]`, mantenha o placeholder em vez de preencher com algo falso."* Isso impede o design de pegar a copy ao pé da letra, sair textual, colar as anotações na página ou inventar prova.
+Comece o doc com um **preâmbulo pro agente de design** (uma nota de handoff): *"Este arquivo é matéria-prima de copy pra um mockup de página. Inspire-se nela, mas não precisa usar ao pé da letra: você está livre pra ajustar palavra, ordem e ênfase quando o design ficar melhor. Os rótulos dizem a FUNÇÃO de cada bloco, não o formato: uma lista pode virar grid, carrossel, checklist ou revelação no scroll; uma prova pode virar galeria ou comparação. Layout, cor, tipografia e componente são teus. Entregue uma página VISUALMENTE COMPLETA: onde faltar prova, número, preço ou link, preencha com placeholder realista (um depoimento plausível, um número plausível) pra dar pra enxergar o design pronto, e o aluno troca pelo real depois. Duas coisas que NUNCA vão pro HTML: as linhas de anotação (`→ princípio:`, `→ conceito:`) e qualquer marcador entre colchetes (`[FALTA PROVA]`, `[CONFIRMAR]`, `[DEFINIR]`), nada disso é texto de página."* Isso deixa o design limpo, completo e livre, sem anotação nem tag colada na página.
 
 Logo depois, o bloco de **Conceito criativo (brief aberto)**:
 - a **big idea** escolhida, em uma frase;
@@ -156,11 +156,11 @@ Logo depois, o bloco de **Conceito criativo (brief aberto)**:
 
 Esses dois blocos são a ponte pro passo de design não começar frio, sem congelar nenhuma decisão visual.
 
-No fim do doc, liste ainda:
+No fim do doc, liste ainda (tudo isto fica no rodapé do doc, fora da página, e o design não renderiza):
+- a lista **"Trocar antes de publicar"**: cada placeholder/mock usado (depoimento, número, avaliação) e cada dado a confirmar (preço, parcela, link de checkout), pro aluno trocar pelo real antes de ir pro ar,
 - as variações de headline geradas (pra teste A/B),
-- o que ficou marcado como `[FALTA PROVA]` pro usuário preencher,
 - e ofereça gerar variações de qualquer seção pra teste.
 
 ## O que esta skill NÃO faz
 
-Não monta o HTML nem o design da página (isso é outra etapa). **Não fixa decisão de design** — o conceito criativo é metáfora/storytelling, nunca layout, cor, grid, componente ou animação; a execução visual fica aberta pra etapa seguinte do aluno. Não inventa dados de prova. Não escreve copy de anúncio nem de email.
+Não monta o HTML nem o design da página (isso é outra etapa). **Não fixa decisão de design** — o conceito criativo é metáfora/storytelling, nunca layout, cor, grid, componente ou animação; a execução visual fica aberta pra etapa seguinte do aluno. Não espalha tag no meio da página (prova que falta vira placeholder de mockup + a lista "Trocar antes de publicar"). Não escreve copy de anúncio nem de email.

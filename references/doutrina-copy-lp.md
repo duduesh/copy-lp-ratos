@@ -2,6 +2,24 @@
 
 Destilado de 16 fontes de copywriting e CRO (consenso + curadoria), num tom honesto. Esta é a base que a skill `copy-lp-ratos` aplica. Vale pros quatro tipos de página que a skill cobre: **venda, captura de lead, serviço/negócio local e institucional**.
 
+## Big idea e conceito criativo (as duas cabeças da mesma ideia)
+
+A skill trata a ideia central como uma coisa com duas cabeças. Não é copy primeiro nem visual primeiro: as duas nascem da mesma raiz e se escrevem juntas.
+
+- **Big idea (a mensagem):** o conceito único de argumento em torno do qual a página gira. Pra quem, que promessa, em que verdade ela se apoia. É fácil de entender, de acreditar e diferencia. Todo o resto são subpontos a serviço dela.
+- **Conceito criativo (a metáfora que costura):** a ideia de storytelling que dá espinha, ritmo e alma à página. É a metáfora que governa a narrativa. Ex.: se a big idea é "organização de pastas", o conceito criativo é "os ratos carregando as pastas de um lado pro outro num labirinto até tudo achar seu lugar".
+
+**Por que os dois juntos:** copy fica fria quando é otimizada só pro argumento e ignora a experiência. Uma metáfora que governa esquenta a copy inteira, ela vira o fio que costura headline, transições e nomes de seção. O conceito dá alma; a big idea dá substância pro conceito não ser só firula bonita.
+
+### A fronteira dura: conceito criativo NÃO é decisão de design
+
+O conceito criativo traz a **ideia/metáfora/storytelling**, nunca o **como o design executa**. Isso é lei nesta skill, porque as próximas etapas (o aluno pega referências, traz o design system dele, escolhe layout) precisam ficar livres. Fixar design agora polui tudo depois.
+
+- **É conceito (pode):** "os ratos carregam as pastas por um labirinto até organizar". "A página se constrói peça por peça conforme a pessoa desce, como quem monta o sistema na frente dela." A metáfora, a intenção narrativa, o que a página faz sentir.
+- **NÃO é conceito (não pode):** "faz um grid amarelo com ratos caminhando". "Usa card com borda tracejada." "Anima o hero com fade." Layout, grid, cor, componente, tipografia, animação específica. Nada disso. É porta, não planta baixa.
+
+Se uma frase do conceito manda em pixel, cor, grid ou componente, ela virou design e tem que sair. O conceito descreve a **ideia** e no máximo a **sensação/experiência**, deixando a execução visual 100% aberta pra etapa seguinte.
+
 ## A tese
 Uma página converte quando, logo na primeira tela, fica claro o benefício pra uma pessoa específica; e quando o resto da página constrói a crença (prova, lógica, objeções, reversão de risco) até a ação desejada parecer a conclusão óbvia, não um empurrão.
 

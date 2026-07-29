@@ -1,17 +1,27 @@
 ---
 name: copy-lp-ratos
-description: Escreve a copy e a estrutura de seções de uma landing page ou página de site, adaptando ao tipo, página de venda, captura de lead, serviço/negócio local ou institucional. Conduz uma entrevista curta, define a ideia central e o avatar, e entrega a página seção por seção, pronta pra colar num builder. Aplica princípios destilados de copywriting e CRO, com tom honesto, sem hype vazio. Use quando o usuário pedir pra escrever a copy de uma landing page, página de vendas, página de captura, página de serviço ou institucional, criar ou refazer a LP de um produto, curso, serviço ou negócio, gerar as seções de uma landing, montar headline + oferta + prova, fazer variações pra teste A/B, ou disser "copy de LP", "landing page", "página de vendas", "/copy-lp-ratos". NÃO monta o HTML nem o design da página.
+description: Escreve a copy e a estrutura de seções de uma landing page ou página de site, adaptando ao tipo, página de venda, captura de lead, serviço/negócio local ou institucional. Conduz uma entrevista curta e, antes de escrever, propõe 3 big ideas + 3 conceitos criativos + avatar pra pessoa escolher, e entrega a página seção por seção, pronta pra colar num builder. Aplica princípios destilados de copywriting e CRO, com tom honesto, sem hype vazio. O conceito criativo é a metáfora/storytelling que dá alma à página, NUNCA decisão de design. Use quando o usuário pedir pra escrever a copy de uma landing page, página de vendas, página de captura, página de serviço ou institucional, criar ou refazer a LP de um produto, curso, serviço ou negócio, gerar as seções de uma landing, montar headline + oferta + prova, fazer variações pra teste A/B, ou disser "copy de LP", "landing page", "página de vendas", "/copy-lp-ratos". NÃO monta o HTML nem o design da página.
 ---
 
 # Copy de Landing Page
 
-Esta skill escreve a **copy e a arquitetura de seções** de uma página. Ela se adapta ao **tipo de página**, porque uma página que vende um curso não tem a mesma estrutura de uma que capta email, de uma que apresenta uma clínica, ou de uma que apresenta uma empresa.
+Esta skill escreve a **copy e a arquitetura de seções** de uma página. Além da copy, ela trabalha a **ideia central em duas cabeças**: a big idea (o argumento) e o conceito criativo (a metáfora/storytelling que dá alma à página). Antes de escrever, propõe opções (3 big ideas + 3 conceitos criativos + avatar) pra pessoa escolher, o que ajuda quem não sabe criar storytelling, big idea e o conceito por conta própria.
 
-A doutrina completa está em `references/doutrina-copy-lp.md`. **Leia esse arquivo antes de escrever qualquer copy** — é a base que separa esta skill de "gerar texto bonito que não converte". O princípio que rege tudo: a página não empurra a ação, faz ela parecer a conclusão óbvia pra pessoa certa.
+Ela se adapta ao **tipo de página**, porque uma página que vende um curso não tem a mesma estrutura de uma que capta email, de uma que apresenta uma clínica, ou de uma que apresenta uma empresa.
 
-## Regra de ouro
+A doutrina completa está em `references/doutrina-copy-lp.md`, **incluindo a seção "Big idea e conceito criativo"**. **Leia esse arquivo antes de escrever qualquer copy** — é a base que separa esta skill de "gerar texto bonito que não converte". O princípio que rege tudo: a página não empurra a ação, faz ela parecer a conclusão óbvia pra pessoa certa.
 
-**Não invente prova.** Número, caso, depoimento, avaliação e autoridade só entram se forem reais e o usuário fornecer. Onde faltar prova, marque `[FALTA PROVA: ...]` em vez de inventar. Uma página vive de credibilidade; uma prova falsa destrói a confiança e o resultado.
+## Três regras de ouro
+
+**1. Não invente prova.** Número, caso, depoimento, avaliação e autoridade só entram se forem reais e o usuário fornecer. Onde faltar prova, marque `[FALTA PROVA: ...]` em vez de inventar. Uma página vive de credibilidade; uma prova falsa destrói a confiança e o resultado.
+
+**2. Conceito criativo não fixa design.** O conceito é a **metáfora/storytelling** que dá alma à página (ex.: "os ratos carregando as pastas por um labirinto até organizar"), NUNCA uma decisão de design (grid, cor, componente, layout, animação específica). As próximas etapas do aluno — pegar referência, trazer o design system dele, escolher o visual — precisam ficar livres. Se uma frase do conceito manda em pixel, cor ou componente, ela virou design e tem que sair. É porta, não planta baixa. A fronteira completa está na doutrina.
+
+**3. Copy mastigada, formato solto.** As palavras vão prontas (é o valor pro leigo), mas o arquivo **nunca decide o formato visual**. Isso vale em três frentes, porque é o que faz a página não sair travada e textual:
+
+- **Rotule cada bloco pela FUNÇÃO, nunca pelo formato.** O que a seção faz, não como ela se desenha. Escreva `O que muda depois do curso` (função), nunca `Bullets`, `Corpo`, `Galeria`, `Grade`, `Cards`, `Itens` (formato). Uma lista de 6 coisas pode virar grid, carrossel, checklist animado ou revelação no scroll: quem decide é o design, não este arquivo.
+- **Bloco visual = intenção, não layout.** Onde a força é mostrar (prova, comparação), descreva a **intenção** ("mostrar as páginas reais feitas com o método; ver é acreditar") e não a execução ("grade de prints com nome embaixo", "comparação lado a lado").
+- **Corpo decomponível.** Escreva em unidades curtas e destacáveis, uma ideia por unidade, não em paredão de prosa. Se a matéria-prima é um bloco denso de texto, o design sai textual porque *tem muito texto pra colocar*. Dá pro design pedaços que ele consegue transformar em visual.
 
 ## Fluxo
 
@@ -24,7 +34,8 @@ A entrevista é uma **conversa**, não um formulário. Regras:
 - **Múltipla escolha quando as respostas prováveis são enumeráveis** (tipo de página, tem garantia?, formulário curto ou só email?). Se a ferramenta AskUserQuestion estiver disponível, use; senão, ofereça as opções em texto. Pergunta aberta quando a resposta é do negócio da pessoa (público, transformação, prova, objeções).
 - **Reaja à resposta antes da próxima pergunta.** Resposta vaga pede aprofundamento na hora: "é pra todo mundo" vira "quem é a pessoa que mais compra hoje? me descreve uma real". Resposta boa, reconheça em meia linha e siga. Nunca re-pergunte o que já foi respondido.
 - **Ordem viva, não questionário.** Comece pelo tipo de página e siga o fio do que a pessoa disser. O checklist do passo 2 é o que precisa estar coberto NO FIM, não uma sequência pra aplicar em ordem.
-- **Curta: 6 a 10 trocas no total.** Coberto o essencial, pare de perguntar e vá pro passo 3 (big idea + avatar). Melhor confirmar uma suposição do que fazer mais uma pergunta.
+- **Flag de conceito, uma pergunta só, sem pressão.** Em algum ponto da entrevista (não na primeira, não na última), solte um flag leve: *"tu já tem alguma ideia de conceito/experiência pra página, tipo uma metáfora ou uma sensação que ela deveria passar, ou prefere que eu proponha algumas?"*. Se a pessoa **já chega com** um conceito (como "os ratos carregando pastas num labirinto"), captura ele agora pra escrever a copy servindo esse conceito. Se não tem, tudo bem: é o passo 3 que vai propor. Deixa claro que é opcional e que tu resolve isso pra ela.
+- **Curta: 6 a 10 trocas no total.** Coberto o essencial, pare de perguntar e vá pro passo 3 (big ideas + conceitos + avatar). Melhor confirmar uma suposição do que fazer mais uma pergunta.
 - **Fechamento por bloco de suposições.** Se a pessoa pedir pressa ("faz logo", "tô sem tempo") ou as trocas estourarem antes de cobrir o checklist, NÃO despeje as perguntas restantes nem escreva direto: feche o que falta com um bloco de suposições explícitas ("vou assumir X, Y e Z, me corrige o que estiver errado"), junto com a big idea + avatar, numa única mensagem de confirmação. O portão do passo 3 nunca se pula, nem com pressa.
 
 ### 1. Identifique o tipo de página (primeira pergunta, ou primeira inferência)
@@ -56,17 +67,27 @@ Infira do que o usuário já disse; se não der, é a primeira pergunta (boa can
 - **Serviço / local:** como funciona o atendimento, onde atende (endereço ou região), horário, formas de contato, diferencial concreto, faixa de preço ou como orçar.
 - **Institucional:** o que a empresa faz e pra quem, propósito ou história (se for concreta), provas de credibilidade, qual próximo passo se espera.
 
-### 3. Ideia central + avatar (confirme antes de escrever tudo)
+### 3. Big ideas + conceitos criativos + avatar (o portão — proponha opções e confirme antes de escrever)
 
-Proponha e **confirme com o usuário**:
-- **A uma big idea** da página: o conceito único em torno do qual tudo gira (fácil de entender, de acreditar, e que diferencia). Todo o resto são subpontos a serviço dela.
-- **O avatar:** a uma pessoa pra quem a página fala, em uma frase.
+Este é o coração da skill. Aqui tu não entrega uma direção só: tu entrega um **menu** pra pessoa escolher, porque a maioria (leigo) não sabe criar big idea nem conceito criativo, e escolher é mais fácil que inventar. Monte uma única mensagem com:
 
-Isso evita escrever a página inteira na direção errada. Espere o ok (ou ajuste) antes de seguir.
+- **3 big ideas** (rotule A, B, C): cada uma é um conceito único de argumento em torno do qual a página pode girar. Uma frase cada, mais uma linha de por que ela morde. Devem ser de fato diferentes entre si (ângulos distintos), não a mesma ideia em três roupas.
+- **3 conceitos criativos** (rotule 1, 2, 3): cada um é uma metáfora/storytelling que dá alma à página. Uma frase cada. **Só metáfora e intenção narrativa — zero decisão de design** (reler a regra de ouro 2 e a fronteira na doutrina). Ex. bom: "os ratos carregam as pastas por um labirinto até tudo achar seu lugar". Ex. proibido: "grid amarelo com ratos". Se a pessoa já trouxe um conceito na entrevista, um dos três é o dela (lapidado) e os outros dois são alternativas.
+- **1 avatar** (a pessoa pra quem a página fala, em uma frase). Avatar não precisa de três opções, é mais focado; ofereça uma segunda versão só se houver dúvida real de público.
+
+**Amarre e recomende.** Diga qual conceito casa naturalmente com qual big idea (pra não virar salada de 9 combinações) e **marque uma combinação recomendada** (ex.: "minha recomendação é B + 2"), com uma linha de porquê. O leigo se apoia na recomendação; quem tem repertório mistura à vontade.
+
+**Peça a escolha e espere.** A pessoa escolhe uma big idea, um conceito e confirma o avatar (pode misturar, pode pedir ajuste, pode fundir duas). Só depois do ok siga pro passo 4. Isso evita escrever a página inteira na direção errada, e trava o conceito **como fio narrativo, não como design**.
 
 ### 4. Escreva seção por seção (estrutura conforme o tipo)
 
+Escreva a copy **servindo o conceito criativo escolhido**: a metáfora costura os nomes de seção, as transições e as chamadas, dando um fio narrativo à página inteira em vez de blocos soltos. O conceito aparece na LINGUAGEM, não em instrução visual.
+
+**Vale a regra de ouro 3 o tempo todo aqui:** rotule cada bloco pela função (o job dele na página), nunca pelo formato. Escreva `Headline`, `Subheadline`, `CTA`, `O que muda`, `Prova`, `Oferta`, `Preço`, `Objeções` (funções). Nunca `Corpo`, `Bullets`, `Galeria`, `Grade`, `Cards`, `Itens` (formato). Onde a seção for de mostrar, descreva a intenção ("mostrar as páginas reais feitas com o método"), não o layout ("grade de prints"). E escreva o corpo em unidades curtas e destacáveis, não em paredão de prosa.
+
 Para **cada seção**, entregue: (a) a copy pronta e (b) uma linha curta `→ princípio:` dizendo qual princípio da doutrina ela aplica, pra o usuário aprender o porquê e não só receber o texto.
+
+Onde o conceito criativo se manifestar de forma marcante numa seção, acrescente também uma linha `→ conceito:` explicando **como a metáfora aparece na narrativa daquela seção** (um nome, uma transição, um callback da metáfora). Não em toda seção, só onde pega. **Essa linha nunca dá instrução de design** (nada de "põe um rato aqui", "fundo amarelo", "card X"): ela descreve a ideia narrativa e deixa a execução visual aberta pro aluno.
 
 #### A. Página de venda
 1. **Above the fold** — headline de benefício (vende o valor, não descreve a atividade) + subheadline (como / pra quem) + indicação do visual + prova social curta + **CTA de compra visível**. Seção mais importante; ofereça 2-3 variações de headline pra teste.
@@ -81,7 +102,7 @@ Para **cada seção**, entregue: (a) a copy pronta e (b) uma linha curta `→ pr
 #### B. Página de captura de lead
 Mais curta que a de venda. O objetivo é uma ação pequena, então não canse a pessoa.
 1. **Above the fold** — headline com a promessa do que ela vai receber + subheadline (o que é, pra quem) + **formulário curto visível** + prova social curta.
-2. **O que você recebe** — bullets concretos do que tem dentro do material ou da entrega.
+2. **O que você recebe** — pontos concretos do que tem dentro do material ou da entrega.
 3. **Prova mínima** — quem já pegou, autoridade de quem fez, um depoimento curto.
 4. **Quem é você** — um parágrafo de credibilidade, sem novela.
 5. **FAQ curtíssimo** — só se houver atrito real (privacidade do email, se é grátis mesmo, quanto tempo leva).
@@ -123,11 +144,23 @@ Mais curta que a de venda. O objetivo é uma ação pequena, então não canse a
 
 ### 6. Entregar
 
-Monte tudo num doc markdown estruturado, cada seção rotulada e na ordem da página, pronto pra colar num builder. No fim, liste:
+Monte tudo num doc markdown estruturado, cada seção rotulada **por função** (regra de ouro 3) e na ordem da página, pronto pra colar num builder.
+
+Comece o doc com um **preâmbulo curto pro agente de design** (uma nota de handoff, 2-3 linhas): *"Este arquivo é matéria-prima de copy. Os rótulos dizem a FUNÇÃO de cada bloco, não o formato. Você decide como renderizar cada um: uma lista pode virar grid, carrossel, checklist ou revelação no scroll; uma prova pode virar galeria, comparação animada ou o que a marca pedir. Não trate 'lista' como bullets empilhados nem 'prova' como grade de prints. Layout, cor, tipografia e componente são teus."* Isso impede o design de pegar a copy ao pé da letra e sair textual.
+
+Logo depois, o bloco de **Conceito criativo (brief aberto)**:
+- a **big idea** escolhida, em uma frase;
+- o **conceito criativo** escolhido, em uma ou duas frases (a metáfora e a intenção narrativa);
+- o **avatar**, em uma frase;
+- uma linha deixando explícito que **o conceito é uma intenção narrativa aberta, não um brief de design**: a etapa seguinte (referências, design system, layout, cor, componente) fica 100% livre pro aluno resolver.
+
+Esses dois blocos são a ponte pro passo de design não começar frio, sem congelar nenhuma decisão visual.
+
+No fim do doc, liste ainda:
 - as variações de headline geradas (pra teste A/B),
 - o que ficou marcado como `[FALTA PROVA]` pro usuário preencher,
 - e ofereça gerar variações de qualquer seção pra teste.
 
 ## O que esta skill NÃO faz
 
-Não monta o HTML nem o design da página (isso é outra etapa). Não inventa dados de prova. Não escreve copy de anúncio nem de email.
+Não monta o HTML nem o design da página (isso é outra etapa). **Não fixa decisão de design** — o conceito criativo é metáfora/storytelling, nunca layout, cor, grid, componente ou animação; a execução visual fica aberta pra etapa seguinte do aluno. Não inventa dados de prova. Não escreve copy de anúncio nem de email.

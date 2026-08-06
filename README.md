@@ -1,6 +1,6 @@
 # copy-lp-ratos
 
-Skill de Claude Code que escreve a **copy e a estrutura de seções de uma landing page**, adaptando ao tipo de página. Além da copy, ela trabalha a **ideia central em duas cabeças**: a **big idea** (o argumento) e o **conceito criativo** (a metáfora/storytelling que dá alma à página). Antes de escrever, propõe opções pra você escolher (3 big ideas + 3 conceitos criativos + avatar), o que ajuda quem não sabe criar storytelling e big idea por conta própria.
+Escreve a **copy e a estrutura de seções de uma landing page**, adaptando ao tipo de página. Além da **big idea**, ela trabalha o **conceito criativo** (a metáfora/storytelling que dá alma à página) e, antes de escrever, propõe opções pra você escolher (3 big ideas + 3 conceitos criativos + avatar).
 
 A fronteira dura: o **conceito criativo é metáfora e storytelling, nunca decisão de design**. Ele traz "os ratos carregam as pastas por um labirinto até organizar", não "grid amarelo com ratos". Layout, cor e componente ficam abertos pra etapa seguinte (referências + design system do aluno).
 
@@ -25,7 +25,7 @@ Cada tipo tem uma estrutura de seções própria. Uma página que vende um curso
 - Define a direção escolhida e usa o **conceito criativo como fio narrativo** da copy: a metáfora costura nomes de seção, transições e chamadas.
 - Entrega a página **seção por seção**, cada uma com o princípio de conversão que aplica, pra você aprender o porquê e não só receber o texto.
 - Abre o doc com um **brief de conceito criativo (aberto)**, pra a etapa de design não começar fria, sem fixar nenhuma decisão visual.
-- Tom **honesto**: constrói a crença pela lógica e pela prova, sem hype vazio. Marca `[FALTA PROVA]` onde falta prova real, em vez de inventar.
+- Tom **honesto**: constrói a crença pela lógica e pela prova, sem hype vazio. Onde falta prova real, usa placeholder realista listado em "Trocar antes de publicar", em vez de inventar prova de verdade.
 
 ## O que ela NÃO faz
 
